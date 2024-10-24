@@ -1368,7 +1368,7 @@ module.exports = {
                             title: action === 'add' ? 'Selamat Datang' : 'Selamat tinggal',
                             body: global.wm,
                             thumbnailUrl: pp,
-                            sourceUrl: 'https://whatsapp.com/channel/0029VaXUJdL30LKYn5JdGX3S',
+                            sourceUrl: 'https://chat.whatsapp.com/Gtcectx7SUcAy21Rk4s851',
                             mediaType: 1,
                             renderLargerThumbnail: true 
                             }}}, { quoted: null})

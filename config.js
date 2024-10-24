@@ -1,21 +1,21 @@
-global.owner = ['6288989721627']  
-global.mods = ['6288989721627'] 
-global.prems = ['6288989721627']
-global.nameowner = 'Manz'
-global.numberowner = '6288989721627' 
-global.namebot = 'ManzMD'
-global.nomorown = '6288989721627'
-global.mail = 'manzxd@gmail.com' 
-global.gc = 'https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Manz'
-global.wait = '`Tunggu sedang di proses...`'
+global.owner = ['19419318284']  
+global.mods = ['19419318284'] 
+global.prems = ['19419318284']
+global.nameowner = 'ー Mαnzz'
+global.numberowner = '19419318284' 
+global.namebot = 'AstrospaceMD'
+global.nomorown = '19419318284'
+global.mail = 'nbdevmanzz@idnt.corp' 
+global.gc = 'https://chat.whatsapp.com/Gtcectx7SUcAy21Rk4s851'
+global.instagram = 'https://instagram.com/'
+global.wm = '© AstrospaceMD'
+global.wait = '`Please wait, in Process...`'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made With'
-global.author = 'Bot WhatsApp'
+global.author = 'WhatsApp BOT API\nspacex'
 global.autobio = false // Set true untuk mengaktifkan autobio
-global.maxwarn = '2' // Peringatan maksimum
+global.maxwarn = '10' // Peringatan maksimum
 
 /* Flaa*/
 global.flaaa = [
@@ -23,21 +23,21 @@ global.flaaa = [
     'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 ]
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = '4zoe6D2Z' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = 'bot'
 //Daftar https://api.betabotz.eu.org 
 
 global.APIs = {   
   btc: 'https://api.botcahx.eu.org'
 }
 global.APIKeys = { 
-  'https://api.botcahx.eu.org': 'APIKEY' 
+  'https://api.botcahx.eu.org': '4zoe6D2Z' 
 }
 
-global.multiplier = 38 // The higher, The harder levelup
+global.multiplier = 100 // The higher, The harder levelup
 /*===================================*/
 /*============== EMOJI ==============*/
 global.rpg = {
